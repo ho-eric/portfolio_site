@@ -10,7 +10,7 @@ function About() {
       <div className="hobbies">
         <video src={vid} width="300" height="400" autoPlay muted loop />
         <p>
-          <img src={Eric2} alt="Picture 2 of me!" className="EricPic2" />
+          <img src={Eric2} alt="Another of me!" className="EricPic2" />
           <br />
           <strong>Location:</strong>
           <br />

@@ -1,7 +1,4 @@
 import React from 'react';
-import { MemoryRouter } from 'react-router';
-import { Link, Switch, Route } from 'react-router-dom';
-import { withStyles } from '@material-ui/core/styles';
 import Featured1 from 'components/Featured1.jsx';
 import Featured2 from 'components/Featured2.jsx';
 import Featured3 from 'components/Featured3.jsx';
