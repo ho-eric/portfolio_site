@@ -17,7 +17,7 @@ function Featured() {
       <h2> Featured Projects</h2>
       <div className="featuredProjects">
         <div className="proj">
-          <a href="https://slice-the-pie.erho20.repl.co/"
+          <a href="https://erho-slice-the-pie.netlify.app/"
             className="projLink"
             target="_blank"
             rel="noreferrer noopener">
